@@ -1,0 +1,8 @@
+{
+  "name": "NovaStream - YTM Clone",
+  "description": "A high-fidelity YouTube Music inspired media player for videos and podcasts with distinct desktop and mobile experiences.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
